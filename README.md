@@ -1,2 +1,2 @@
-# stat-scraper
-Python script to scrape stats off of the NBA site
+# Stat Scraper
+Python script written as part of a class project which manually scrapes stats.nba.com for players' statistics using Selenium. Includes several methods, including ones that update the league's players/teams, find the ids of games that were played on a given day, list a player's season/playoff statistics (either totals or per-game), and get all stats for all players on each team for a given game.
